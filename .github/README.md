@@ -67,64 +67,6 @@ nerdflix/
    ```bash
    npm start
    ```
-
-   
-## 🌐 Deploy na Vercel
-
-Aqui está um exemplo atualizado de como o README.md do seu projeto poderia ser estruturado:
-
-```markdown
-# NerdFlix 🎥
-
-Um aplicativo de catálogo de filmes desenvolvido em React, consumindo a API do TMDB para exibir informações sobre filmes.
-
-## 🚀 Funcionalidades
-
-- Listagem de filmes populares.
-- Visualização de detalhes de um filme.
-- Adicionar filmes aos favoritos (armazenados no `localStorage`).
-- Busca de trailers no YouTube.
-
-## 🛠️ Tecnologias Utilizadas
-
-- **React.js**: Biblioteca para construção da interface.
-- **React Router**: Gerenciamento de rotas.
-- **Axios**: Consumo de APIs.
-- **TMDB API**: Fonte de dados sobre filmes.
-- **Toastify**: Exibição de notificações.
-- **CSS**: Estilização do projeto.
-
-## 📦 Instalação e Execução
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nerdflix.git
-   cd nerdflix
-   ```
-
-2. Instale as dependências:
-   ```bash
-   npm install
-   ```
-
-3. Configure a API Key do TMDB:
-   - Crie uma conta no [TMDB](https://www.themoviedb.org/).
-   - Obtenha sua API Key.
-   - Substitua a chave no arquivo `src/pages/Filme/index.js`:
-     ```javascript
-     api_key: "SUA_API_KEY_AQUI"
-     ```
-
-4. Execute o projeto:
-   ```bash
-   npm start
-   ```
-
-5. Acesse no navegador:
-   ```
-   http://localhost:3000
-   ```
-
 ## 🌐 Deploy na Vercel
 
 O projeto está hospedado na Vercel. Acesse o link abaixo para visualizar:
