@@ -70,7 +70,8 @@ nerdflix/
 ## 🌐 Deploy na Vercel
 
 O projeto está hospedado na Vercel. Acesse o link abaixo para visualizar:
-[https://nerdflix.vercel.app](https://nerd-flix-seven.vercel.app/)   
+
+👉🏻 [https://nerdflix.vercel.app](https://nerd-flix-seven.vercel.app/)
 
 ## 🖼️ Exemplo de Uso
 
