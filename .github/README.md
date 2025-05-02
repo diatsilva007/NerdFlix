@@ -12,3 +12,12 @@ import App from './App';
 const root = createRoot(document.getElementById('root'));
 root.render(<App />);
 ```
+
+## API TMDB
+
+Cole sua api_key em src/components/pages/home/index.js.
+
+Ex:
+```
+a5e650f8a5db40ebb4845514a0d940a3
+```
