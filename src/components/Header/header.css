@@ -24,3 +24,22 @@ header{
   color: #000000;
   border-radius: 4px;
 }
+
+// Logo CSS
+.logo {
+  display: flex;
+  align-items: center; /* Garante que o logo e o texto fiquem alinhados verticalmente */
+  text-decoration: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: #FFF;
+  font-weight: bold;
+}
+
+.logo-img {
+  width: 85px; /* Ajuste o tamanho conforme necessário */
+  height: auto;
+  margin-right: 8px; /* Espaço entre o logo e o texto */
+  align-self: center; /* Alinha a imagem verticalmente */
+  display: flex; /* Garante que o logo e o texto fiquem alinhados verticalmente */
+}
