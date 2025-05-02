@@ -25,7 +25,7 @@ header{
   border-radius: 4px;
 }
 
-// Logo CSS
+/* Adicionando estilo para o logo */
 .logo {
   display: flex;
   align-items: center; /* Garante que o logo e o texto fiquem alinhados verticalmente */
